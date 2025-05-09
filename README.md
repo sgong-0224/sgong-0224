@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there 👋, this is sgong-0224!
 
-<!--
-**sgong-0224/sgong-0224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on:
+- Looking for internships
+- Earning college credits at University of Science and Technology of China(USTC)
 
-Here are some ideas to get you started:
+🌱 I’m currently learning:
+- ML Systems
+- Computer Architecture & High Performance Computing
+- Programming languages(Golang, Rust, etc.)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ I'm programming in:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sgong-0224)
