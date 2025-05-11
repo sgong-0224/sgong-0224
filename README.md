@@ -6,7 +6,7 @@
 
 🌱 I’m currently learning:
 - ML Systems
-- Computer Architecture & High Performance Computing
+- Computer Architecture & High Performance Computing & Compilers
 - Programming languages(Golang, Rust, etc.)
 
 ⚡ I'm programming in:
