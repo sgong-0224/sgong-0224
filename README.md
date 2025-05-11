@@ -11,4 +11,5 @@
 
 ⚡ **About me:**
 ![Contributions](https://github.com/sgong-0224/sgong-0224/blob/output/github-contribution-grid-snake.svg)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sgong-0224)
+![Stats](https://github-readme-stats.vercel.app/api?username=sgong-0224&show_icons=true&bg_color=00000000&rank_icon=github))
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sgong-0224&layout=compact)
