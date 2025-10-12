@@ -6,6 +6,7 @@
 
 🌱 **I’m currently learning:**
 - ML Systems & LLM inference
+- Distributed Systems & Server Programming
 - Programming languages(Golang ...)
 
 ⚡ **About me:**
